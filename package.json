@@ -6,7 +6,7 @@
   "dependencies": {
     "@dzeio/url-manager": "^1.0.5",
     "@types/node": "^15.6.1",
-    "next": "^10.2.3",
+    "next": "^11.1.0",
     "next-compose-plugins": "^2.2.1",
     "next-pre-css": "^1.0.0",
     "nextjs": "^0.0.3",
